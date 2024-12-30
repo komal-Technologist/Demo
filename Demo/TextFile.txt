@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=MSI;Database=HRBuddy;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
